@@ -82,7 +82,7 @@ body{
 
 .btn-secondary {
   background: #ffcc00;
-  color: #000;
+  color: #000; /* color added */
   padding: 12px 28px;
   border-radius: 25px;
   border: none;
