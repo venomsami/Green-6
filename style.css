@@ -93,7 +93,7 @@ body{
 }
 
 .btn-secondary:hover {
-  background: #e6b800;
+  background: #e6b800; /* color added */
 }
 
 /* Decorative Leaf Images */
