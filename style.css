@@ -2,8 +2,8 @@
 /* Reset */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 :root{
-  --green: #2d8a3e;
-  --green-dark: #1f6a2f;
+  --green: #2d8a3e; 
+  --green-dark: #1f6a2f; /* color added */
   --green-deep: #0e3d19;
   --accent: #f7c600;
   --bg: #f2fbf4;
