@@ -148,7 +148,7 @@ body{
   gap:10px;
   padding:10px 12px;
   border-radius: 12px;
-  background: linear-gradient(180deg,#f9fff9,#f2fff3);
+  background: linear-gradient(180deg,#f9fff9,#f2fff3); /* color added */
   border: 1px solid #e6f3ea;
   cursor: pointer;
   transition: transform .12s ease, box-shadow .12s ease, background .12s ease;
